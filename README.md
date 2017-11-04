@@ -10,4 +10,4 @@ Current target is ATSAMD11D14 but will change to ATSAMD11C
 
 ## Known issues:
 
-* Continuous print statements will cause the flags to break 
+* Continuous print statements will cause the flags to break/system hang
